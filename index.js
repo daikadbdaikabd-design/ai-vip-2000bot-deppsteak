@@ -9,8 +9,8 @@ http.createServer((req, res) => {
 }).listen(10000); 
 
 const config = {
-    host: "warmhousesmp.nethr.nl", 
-    port: 9598,        
+    host: "darkblademc.joinmc.world", 
+    port: 20674,        
     username: 'Pro_SuperBot',
     version: '1.21.1',  
     password: 'matkhaucuaban' 
