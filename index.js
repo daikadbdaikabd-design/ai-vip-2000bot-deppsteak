@@ -11,7 +11,7 @@ http.createServer((req, res) => {
 const config = {
     host: "darkblademc.joinmc.world", 
     port: 20674,        
-    username: 'Pro_SuperBot',
+    username: 'BuDaiBo',
     version: '1.21.1',  
     password: 'matkhaucuaban' 
 };
